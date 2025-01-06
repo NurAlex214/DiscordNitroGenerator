@@ -24,12 +24,15 @@ A powerful and elegant Discord Nitro gift code generator and checker tool writte
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/discord-nitro-generator.git
+   git clone https://github.com/NurAlex214/DiscordNitroGenerator.git
    ```
 
 2. Navigate to the project directory:
+   ```bash
+   cd yourdirectory\....
+   ```
 
-3. Install required packages:
+4. Install required packages:
    ```bash
    pip install -r requirements.txt
    ```
