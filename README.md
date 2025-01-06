@@ -1,6 +1,6 @@
 # Discord Nitro Generator 🎮
 <div align="center">
-  <img src="[https://imgur.com/a/tW5Mb8M](https://imgur.com/a/tW5Mb8M)" alt="Nitro Generator Banner" width="800"/>
+  <img src="https://imgur.com/a/tW5Mb8M" alt="Nitro Generator Banner" width="800"/>
 </div>
 
 A powerful and elegant Discord Nitro gift code generator and checker tool written in Python. Generate and validate Discord Nitro gift codes with a beautiful command-line interface.
