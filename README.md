@@ -28,9 +28,6 @@ A powerful and elegant Discord Nitro gift code generator and checker tool writte
    ```
 
 2. Navigate to the project directory:
-   ```bash
-   cd discord-nitro-generator
-   ```
 
 3. Install required packages:
    ```bash
